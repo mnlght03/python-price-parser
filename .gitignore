@@ -2,3 +2,5 @@ venv
 data
 credentials.py
 __pycache__
+dev_requirements.txt
+selectors.py
